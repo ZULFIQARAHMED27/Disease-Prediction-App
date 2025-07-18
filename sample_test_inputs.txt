@@ -1,0 +1,54 @@
+============================
+🟩 DIABETES TEST INPUTS
+============================
+
+🔹 Positive Case (Diabetic)
+Pregnancies: 6
+Glucose: 148
+Blood Pressure: 72
+Skin Thickness: 35
+Insulin: 0
+BMI: 33.6
+Diabetes Pedigree Function: 0.627
+Age: 50
+
+🔹 Negative Case (Not Diabetic)
+Pregnancies: 1
+Glucose: 85
+Blood Pressure: 66
+Skin Thickness: 29
+Insulin: 0
+BMI: 26.6
+Diabetes Pedigree Function: 0.351
+Age: 31
+
+
+============================
+🟥 HEART DISEASE TEST INPUTS
+============================
+
+🔹 Positive Case (Heart Disease Detected)
+Age: 57
+Sex: Male
+Chest Pain Type: 0 - Typical Angina
+Resting Blood Pressure: 140
+Serum Cholesterol (mg/dl): 241
+Fasting Blood Sugar > 120 mg/dl: Yes
+Resting ECG: 1 - ST-T Wave Abnormality
+Max Heart Rate Achieved: 123
+Exercise Induced Angina: Yes
+ST Depression: 0.2
+Slope of ST Segment: 1 - Flat
+
+🔹 Negative Case (No Heart Disease)
+Age: 45
+Sex: Female
+Chest Pain Type: 1 - Atypical Angina
+Resting Blood Pressure: 130
+Serum Cholesterol (mg/dl): 234
+Fasting Blood Sugar > 120 mg/dl: No
+Resting ECG: 0 - Normal
+Max Heart Rate Achieved: 180
+Exercise Induced Angina: No
+ST Depression: 0.0
+Slope of ST Segment: 0 - Upsloping
