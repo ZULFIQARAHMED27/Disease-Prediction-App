@@ -14,20 +14,6 @@ This is a simple AI-powered web application built using **Streamlit** that predi
 
 ---
 
-## 🗂️ Folder Structure
-
-disease-prediction-app/
-├── app.py
-├── train_diabetes_model.py
-├── train_heart_model.py
-├── models/
-│ ├── diabetes_model.pkl
-│ └── heart_model.pkl
-├── data/
-│ ├── diabetes.csv
-│ └── heart.csv
-└── README.md
-
 
 > 🔁 **Note**: `train_*.py` scripts expect the `.csv` files in the `data/` folder. The Streamlit `app.py` loads `.pkl` models from the `models/` folder.
 
